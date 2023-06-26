@@ -1,0 +1,27 @@
+{
+  "name": "vocabularyapp",
+  "version": "1.0.0",
+  "description": "dd",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AniketKumar06/Vocabulary_App.git"
+  },
+  "keywords": [
+    "English",
+    "Word",
+    "Search",
+    "And",
+    "Learn"
+  ],
+  "author": "Aniket Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AniketKumar06/Vocabulary_App/issues"
+  },
+  "homepage": "https://github.com/AniketKumar06/Vocabulary_App#readme"
+}
